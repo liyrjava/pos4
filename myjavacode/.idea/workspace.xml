@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9999472-546d-4cfe-b8b6-d197121d8f3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q9RRw2CIDWYah5SwpQrMitXxtw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/planeWar0.1/src/image/explode" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\myjavacode\planeWar0.1\src\image\explode" />
+      <recent name="D:\学习\myjavacode\planeWar0.1\src\image" />
+      <recent name="D:\学习\myjavacode\planeWar0.2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.testString">
+    <configuration name="GameUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.plane.GameUtil" />
+      <module name="planeWar0.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.plane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyGameFrame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.plane.MyGameFrame" />
+      <module name="planeWar0.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.plane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.plane.MyGameFrame" />
+      <module name="planeWar0.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.plane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array" />
+      <module name="myjavacode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.testString" />
+      <module name="String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testString" />
+        <item itemvalue="Application.MyGameFrame" />
+        <item itemvalue="Application.GameUtil" />
+        <item itemvalue="Application.MyGameFrame (1)" />
+        <item itemvalue="Application.array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9999472-546d-4cfe-b8b6-d197121d8f3c" name="Default Changelist" comment="" />
+      <created>1684763805855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684763805855</updated>
+      <workItem from="1684763809158" duration="892000" />
+      <workItem from="1684766820088" duration="19000" />
+      <workItem from="1684920371282" duration="616000" />
+      <workItem from="1684997075156" duration="866000" />
+      <workItem from="1685242171344" duration="775000" />
+      <workItem from="1685581280262" duration="623000" />
+      <workItem from="1685868748970" duration="764000" />
+      <workItem from="1685869577125" duration="3562000" />
+      <workItem from="1686390554658" duration="1682000" />
+      <workItem from="1686450072724" duration="1063000" />
+      <workItem from="1686479435141" duration="1209000" />
+      <workItem from="1686734980352" duration="1818000" />
+      <workItem from="1686984368246" duration="6728000" />
+      <workItem from="1687253866198" duration="3714000" />
+      <workItem from="1687848768419" duration="2601000" />
+      <workItem from="1687853788158" duration="5295000" />
+      <workItem from="1687937740147" duration="9050000" />
+      <workItem from="1688090420338" duration="11516000" />
+      <workItem from="1688107572601" duration="614000" />
+      <workItem from="1688108700470" duration="67000" />
+      <workItem from="1688108818297" duration="153000" />
+      <workItem from="1688108992984" duration="634000" />
+      <workItem from="1688109642659" duration="13000" />
+      <workItem from="1688109665600" duration="273000" />
+      <workItem from="1688109951996" duration="144000" />
+      <workItem from="1688110127658" duration="28000" />
+      <workItem from="1688110170322" duration="191000" />
+      <workItem from="1688110382299" duration="252000" />
+      <workItem from="1688110647984" duration="3196000" />
+      <workItem from="1688217436913" duration="13000" />
+      <workItem from="1688217461325" duration="30000" />
+      <workItem from="1688217501384" duration="2290000" />
+      <workItem from="1688360761712" duration="1802000" />
+      <workItem from="1689317078047" duration="150000" />
+      <workItem from="1689317239047" duration="1577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Custom_Plugin_Repositories" timestamp="1688110455187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1688110455187" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1688218479144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1688218479144" />
+    <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1688103103024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1688103103024" />
+    <state x="479" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1688102138866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1688102138866" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1688109994340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1688109994340" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1688219641933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1688219641933" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1688219641933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1688219641933" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1688219641933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1688219641933" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1688219641933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1688219641933" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1688219642133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1688219642133" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1688219642133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1688219642133" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1688219642133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1688219642133" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1688219642133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1688219642133" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1688110546750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1688110546750" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1689317239209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1689317239209" />
+    <state x="178" y="99" width="1180" height="695" key="new project wizard" timestamp="1688219501091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="99" width="1180" height="695" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1688219501091" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1688219719044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1688219719044" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/src/Test/testString.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myjavacode$MyGameFrame.ic" NAME="MyGameFrame Coverage Results" MODIFIED="1688105742952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bjsxt.plane.*</FILTER>
+    </SUITE>
+  </component>
+</project>
